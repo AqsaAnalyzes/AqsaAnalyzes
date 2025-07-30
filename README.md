@@ -14,7 +14,7 @@ I’m passionate about exploring the world of AI/ML through real-world projects 
 
 ✨ I believe in learning by building, staying curious, and growing one line of code at a time.
 
-📫 Let’s connect! [LinkedIn](https://www.linkedin.com) (www.linkedin.com/in/aqsakhan06)
+📫 AI & ML enthusiast | Exploring data, building models | Let's connect: www.linkedin.com/in/aqsakhan06
 
 <!--
 **AqsaAnalyzes/AqsaAnalyzes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
