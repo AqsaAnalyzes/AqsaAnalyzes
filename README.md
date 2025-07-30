@@ -1,4 +1,20 @@
-## Hi there 👋
+### Hey there! I'm Aqsa 👋
+
+I'm an undergrad student pursuing BTech in Artificial Intelligence & Data Science (Class of 2029).  
+I’m passionate about exploring the world of AI/ML through real-world projects and continuous learning.
+
+🔭 Currently learning:
+- Python 🐍  
+- Mathematics for Machine Learning 📐  
+- Machine Learning fundamentals 🧠  
+
+💻 Projects coming up:  
+- Beginner-friendly AI apps  
+- Exploratory Data Analysis (EDA) on real datasets  
+
+✨ I believe in learning by building, staying curious, and growing one line of code at a time.
+
+📫 Let’s connect! [LinkedIn](https://www.linkedin.com) 
 
 <!--
 **AqsaAnalyzes/AqsaAnalyzes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
